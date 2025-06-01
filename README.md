@@ -19,7 +19,7 @@ Salmon is a command-line utility to upload and manage code snippets or file cont
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/salmon.git
+git clone https://github.com/Ianisop/salmon.git
 cd salmon
 pip install -r requirements.txt
 ```
@@ -89,6 +89,7 @@ https://pastebin.com/Xyz9876
 ```
 
 ---
+
 
 ## 📌 License
 

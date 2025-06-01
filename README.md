@@ -1,2 +1,2 @@
 # salmon
-git to pastebin converter
+directory to pastebin in one simple step

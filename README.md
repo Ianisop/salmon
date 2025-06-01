@@ -23,6 +23,7 @@ git clone https://github.com/yourusername/salmon.git
 cd salmon
 pip install -r requirements.txt
 ```
+> **Pro-Tip:** Simply drop salmon.py outside the root directory of your project and pass -r and -d
 
 > **Note:** Salmon requires Python 3.7+
 

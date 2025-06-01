@@ -92,10 +92,10 @@ https://pastebin.com/Xyz9876
 
 ## 📌 License
 
-MIT License — feel free to use, modify, and share!
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ---
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made by [somethingfishy](https://github.com/Ianisop)
